@@ -74,5 +74,5 @@
 
 ## 関連リンク
 
-- Note：[URL]
+- note：[[URL](https://note.com/md_arch_bugyo/n/n884d24b2577d)]
 - 原典（港区例規集）：[[URL](https://www1.g-reiki.net/city.minato.tokyo/reiki_menu.html)]
