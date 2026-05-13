@@ -31,7 +31,7 @@
 取得日：2026-04-29
 変換：markdown_arch_bugyo
 ライセンス：CC BY 4.0
-原典URL：https://krg103.legal-square.com/HAS-Shohin/jsp/SVDocumentView
+原典URL：https://krg103.legal-square.com/HAS-Shohin/jsp/SVDocumentView#e000000001
 
 ## 免責事項
 本データは原典に基づき作成していますが、正確性・最新性を
