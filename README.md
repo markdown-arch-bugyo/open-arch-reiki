@@ -142,5 +142,5 @@
 - 原典（千代田区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A8016805F)]
 - 原典（中央区例規集）：[[URL](https://krg103.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - 原典（渋谷区例規集）：[[URL](https://krg114.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
-- 原典（新宿区例規集）：[[URL](https://krg105.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf]
+- 原典（新宿区例規集）：[[URL](https://krg105.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 
