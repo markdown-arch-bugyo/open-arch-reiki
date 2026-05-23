@@ -115,6 +115,15 @@
 - 新宿区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 新宿区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
+### 文京区
+- 文京区建築基準法施行細則
+- 文京区みどりの保護条例
+- 文京区みどりの保護条例施行規則
+- 文京区景観づくり条例
+- 文京区景観づくり条例施行規則
+- 文京区中高層建築物の建築に係る紛争の予防と調整及び開発事業の周知に関する条例
+- 文京区中高層建築物の建築に係る紛争の予防と調整及び開発事業の周知に関する条例施行規則
+
 ## ライセンス
 
 - **原典**：各自治体例規集（著作権法第13条により著作権の対象外）
@@ -143,4 +152,5 @@
 - 原典（中央区例規集）：[[URL](https://krg103.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - 原典（渋谷区例規集）：[[URL](https://krg114.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - 原典（新宿区例規集）：[[URL](https://krg105.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- 原典（文京区例規集）：[[URL](https://krg106.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 
