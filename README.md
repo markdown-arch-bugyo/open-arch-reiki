@@ -145,6 +145,8 @@
 - 目黒区中高層建築物等の建築に係る紛争の予防と調整に関する条例
 - 目黒区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規
 
+### 豊島区
+- 豊島区みどりの条例
 
 ## ライセンス
 
@@ -177,4 +179,5 @@
 - 原典（文京区例規集）：[[URL](https://krg106.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - 原典（品川区例規集）：[[URL](https://www.city.shinagawa.tokyo.jp/reiki/reiki_menu.html)]
 - 原典（目黒区例規集）：[[URL](https://www1.g-reiki.net/meguro/reiki_menu.html)]
+- 原典（豊島区例規集）：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 
