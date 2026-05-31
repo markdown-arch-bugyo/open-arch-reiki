@@ -1,3 +1,223 @@
+
+
+# 🌐 **Open Architectural Ordinance Dataset (Markdown Structured Data)**  
+*English version is shown first. 日本語版は下部にあります。*
+
+This project provides a structured Markdown dataset of building‑related municipal ordinances, enforcement regulations, and administrative guidelines.  
+The dataset is being developed progressively, starting with Tokyo wards that have high building activity.
+
+---
+
+## **Purpose**
+
+The primary objective of this project is to improve the efficiency of searching and referencing building‑related municipal regulations in architectural design and public administration.  
+The dataset is formatted so that **designers, government officials, and AI tools** can easily access and interpret the content.
+
+---
+
+## **Expected Benefits**
+
+- Reduced time and effort required for designers to locate relevant ordinances  
+- More efficient administrative review enabled by accurate and well‑structured information  
+- AI‑ready formatting suitable for **RAG (Retrieval‑Augmented Generation)** and other LLM workflows  
+- Early preparation for **BIM‑based regulatory review expected in 2029**, through standardized data structuring  
+
+---
+
+## **Data Structure**
+
+Chapters, articles, paragraphs, and items of each ordinance are mapped to Markdown heading levels (H1–H6):
+
+- `#` Ordinance title  
+- `##` Chapters / Sections  
+- `###` Articles / Appendices  
+- `####` Paragraphs / Supplementary provisions  
+- `#####` Items  
+- `######` Sub‑items (for long text)
+
+Tables that are not machine‑readable (e.g., merged cells) are reconstructed into a consistent, machine‑readable format **without altering their meaning**.
+
+This structuring policy is designed with the intention of serving as a **prototype for future municipal data standards**.
+
+---
+
+## **Included Municipal Ordinances and Regulations**
+
+The dataset currently includes building‑related ordinances, enforcement regulations, and administrative guidelines from the following Tokyo wards:
+
+### **Minato Ward**
+- 港区建築基準法施行細則
+- 港区景観条例
+- 港区景観条例施行規則
+- 港区単身者向け共同住宅等の建築及び管理に関する条例
+- 港区単身者向け共同住宅等の建築及び管理に関する条例施行規則
+- 港区地区計画の区域内における建築物の制限に関する条例
+- 港区自転車等の放置防止及び自転車等駐車場の整備に関する条例
+- 港区自転車等の放置防止及び自転車等駐車場の整備に関する条例施行規則
+- 港区みどりを守る条例
+- 港区みどりを守る条例施行規則
+- 港区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+- 港区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
+- 港区住宅型総合設計許可要綱
+- 港区住宅型総合設計許可要綱実施細目
+- 港区開発事業に係る定住促進指導要綱
+- 港区開発事業に係る定住促進指導要綱実施要領
+- 港区雨水流出抑制施設設置指導要綱
+
+### **Chiyoda Ward**
+- 千代田区建築基準法施行細則
+- 千代田区景観まちづくり条例
+- 千代田区景観まちづくり条例施行細則
+- 千代田区総合設計許可要綱
+- 千代田区総合設計許可要綱実施細目
+- 千代田区中高層階住居専用地区建築条例
+- 千代田区中高層階住居専用地区建築条例施行規則
+- 千代田区建築協定条例
+- 千代田区地区計画の区域内における建築物等の制限に関する条例
+- 千代田区地区計画の区域内における建築物等の制限に関する条例施行規則
+- 千代田区建築物の耐震改修の促進に関する法律施行細則
+- 千代田区住宅基本条例
+- 千代田区開発事業に係る住環境整備推進制度要綱
+- 千代田区福祉のまちづくりに係る共同住宅整備要綱
+- 千代田区高齢者、障害者等の移動等の円滑化の促進に関する法律施行細則
+- 千代田区自転車等の放置防止及び自転車駐車場の整備に関する条例
+- 千代田区都市の低炭素化の促進に関する法律施行細則
+- 千代田区建築物のエネルギー消費性能の向上等に関する法律施行細則
+- 千代田区開発事業に係る住環境整備推進制度実施要領
+- 千代田区ワンルームマンション等建築物に関する指導要領
+- 千代田区ワンルームマンション等建築物に関する指導要綱
+- 千代田区建築計画の早期周知に関する条例
+- 千代田区緑化推進要綱
+
+### **Chuo Ward**  
+- 建築基準法施行細則
+- 中央区地区計画の区域内における建築物の制限に関する条例
+- 中央区地区計画の区域内における建築物の制限に関する条例施行規則
+- 中央区まちづくり基本条例
+- 中央区まちづくり基本条例に定める開発計画への反映事項並びに開発事業に係る協議及び改善指導に関する規則条例
+- 中央区の住宅及び住環境に関する基本条例
+- 中央区建築協定条例
+- 建築基準法第四十二条第二項の規定による道路の指定
+- 建築物の耐震改修の促進に関する法律施行細則
+- 建築物のエネルギー消費性能の向上等に関する法律施行細則
+
+### **Shibuya Ward**  
+- 建築基準法施行細則
+- 建築基準法第４２条第２項の規定に基づく道路の指定
+- 渋谷区景観条例
+- 渋谷区景観条例施行規則
+- 渋谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+- 渋谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
+- 渋谷区みどりの確保に関する条例
+- 渋谷区みどりの確保に関する条例施行規則
+- 渋谷区安全・安心なまちづくりのための大規模建築物に関する条例
+- 渋谷区安全・安心なまちづくりのための大規模建築物に関する条例施行規則
+- 渋谷区建築物再生可能エネルギー利用促進区域内における説明義務の対象となる建築物の用途及び規模を定める条例
+- 渋谷区建築物のエネルギー消費性能の向上等に関する法律施行細則
+
+### **Shinjuku Ward**  
+- 新宿区建築基準法施行細則
+- 新宿区みどりの条例
+- 新宿区みどりの条例施行規則
+- 新宿区景観まちづくり条例
+- 新宿区景観まちづくり条例施行規則
+- 新宿区特別工業地区内における建築物の制限に関する条例
+- 新宿区建築物の耐震改修の促進に関する法律施行細則
+- 新宿区建築物のエネルギー消費性能の向上等に関する法律施行細則
+- 新宿区中高層階住環境保全地区の区域内における建築物の制限に関する条例
+- 新宿区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 新宿区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
+### **Bunkyo Ward**  
+- 文京区建築基準法施行細則
+- 文京区みどりの保護条例
+- 文京区みどりの保護条例施行規則
+- 文京区景観づくり条例
+- 文京区景観づくり条例施行規則
+- 文京区中高層建築物の建築に係る紛争の予防と調整及び開発事業の周知に関する条例
+- 文京区中高層建築物の建築に係る紛争の予防と調整及び開発事業の周知に関する条例施行規則
+
+### **Shinagawa Ward**  
+- 品川区建築基準法施行規則
+- 品川区みどりの条例
+- 品川区みどりの条例施行規則
+- 品川区景観条例
+- 品川区景観条例施行規則
+- 品川区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 品川区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
+### **Meguro Ward**  
+- 建築基準法施行細則
+- 目黒区みどりの条例
+- 目黒区みどりの条例施行規則
+- 目黒区景観条例
+- 目黒区景観規則
+- 目黒区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+- 目黒区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規
+
+### **Toshima Ward**  
+- 豊島区建築基準法施行細則
+- 豊島区みどりの条例
+- 豊島区みどりの条例施行規則
+- 豊島区景観条例
+- 豊島区景観条例施行規則
+- 豊島区中高層建築物の建築に係る紛争の予防及び調整に関する条例
+- 豊島区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
+
+### **Taito Ward**  
+- 東京都台東区建築基準法施行細則
+- 東京都台東区みどりの条例
+- 東京都台東区みどりの条例施行規則
+- 東京都台東区景観条例
+- 東京都台東区景観条例施行規則
+- 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例
+- 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
+
+---
+
+## **License**
+
+- **Original texts**: Municipal ordinance databases (not subject to copyright under Article 13 of the Copyright Act of Japan)  
+- **Structuring & Markdown conversion**: markdown-arch-bugyo  
+- **License**: CC BY 4.0  
+- Wording follows the original text  
+- Table layouts are reconstructed for machine readability  
+- For accuracy and updates, always refer to the official municipal ordinance databases  
+
+---
+
+## **Disclaimer**
+
+Although this dataset is created based on the original texts, accuracy and currency are not guaranteed.  
+For legal decisions, always consult the original documents and qualified professionals.
+
+---
+
+## **Update Policy**
+
+Updates are made when ordinance revisions are confirmed.  
+See commit logs for detailed update history.
+
+---
+
+## **Related Links**
+
+- note：[[URL](https://note.com/md_arch_bugyo/n/n884d24b2577d)]
+- 原典（港区例規集）：[[URL](https://www1.g-reiki.net/city.minato.tokyo/reiki_menu.html)]
+- 原典（千代田区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A8016805F)]
+- 原典（中央区例規集）：[[URL](https://krg103.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- 原典（渋谷区例規集）：[[URL](https://krg114.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- 原典（新宿区例規集）：[[URL](https://krg105.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- 原典（文京区例規集）：[[URL](https://krg106.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- 原典（品川区例規集）：[[URL](https://www.city.shinagawa.tokyo.jp/reiki/reiki_menu.html)]
+- 原典（目黒区例規集）：[[URL](https://www1.g-reiki.net/meguro/reiki_menu.html)]
+- 原典（豊島区例規集）：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- 原典（台東区例規集）：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
+
+---
+
+# **日本語版 **
+
 # open-arch-reiki
 # 建築関連条例等 構造化データ集（Markdown形式）
 
