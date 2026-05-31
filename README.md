@@ -203,16 +203,16 @@ See commit logs for detailed update history.
 ## **Related Links**
 
 - note：[[URL](https://note.com/md_arch_bugyo/n/n884d24b2577d)]
-- 原典（港区例規集）：[[URL](https://www1.g-reiki.net/city.minato.tokyo/reiki_menu.html)]
-- 原典（千代田区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A8016805F)]
-- 原典（中央区例規集）：[[URL](https://krg103.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
-- 原典（渋谷区例規集）：[[URL](https://krg114.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
-- 原典（新宿区例規集）：[[URL](https://krg105.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
-- 原典（文京区例規集）：[[URL](https://krg106.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
-- 原典（品川区例規集）：[[URL](https://www.city.shinagawa.tokyo.jp/reiki/reiki_menu.html)]
-- 原典（目黒区例規集）：[[URL](https://www1.g-reiki.net/meguro/reiki_menu.html)]
-- 原典（豊島区例規集）：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
-- 原典（台東区例規集）：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
+- Minato Ward ordinance database：[[URL](https://www1.g-reiki.net/city.minato.tokyo/reiki_menu.html)]
+- Chiyoda Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A8016805F)]
+- Chuo Ward ordinance database：[[URL](https://krg103.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- Shibuya Ward ordinance database：[[URL](https://krg114.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- Shinjuku Ward ordinance database：[[URL](https://krg105.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- Bunkyo Ward ordinance database：[[URL](https://krg106.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- Shinagawa Ward ordinance database：[[URL](https://www.city.shinagawa.tokyo.jp/reiki/reiki_menu.html)]
+- Meguro Ward ordinance database：[[URL](https://www1.g-reiki.net/meguro/reiki_menu.html)]
+- Toshima Ward ordinance database：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
+- Taito Ward ordinance database：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
 
 ---
 
