@@ -173,6 +173,12 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
+### **Sumida Ward**  
+- 墨田区集合住宅の建築に係る居住環境の整備及び管理に関する条例
+- 墨田区景観条例
+- 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例
+- 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
+
 ---
 
 ## **License**
@@ -213,6 +219,7 @@ See commit logs for detailed update history.
 - Meguro Ward ordinance database：[[URL](https://www1.g-reiki.net/meguro/reiki_menu.html)]
 - Toshima Ward ordinance database：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - Taito Ward ordinance database：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
+- Sumida Ward ordinance database：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
 
 ---
 
@@ -382,6 +389,12 @@ See commit logs for detailed update history.
 - 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
+### 墨田区
+- 墨田区集合住宅の建築に係る居住環境の整備及び管理に関する条例
+- 墨田区景観条例
+- 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例
+- 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
+
 ## ライセンス
 
 - **原典**：各自治体例規集（著作権法第13条により著作権の対象外）
@@ -415,4 +428,5 @@ See commit logs for detailed update history.
 - 原典（目黒区例規集）：[[URL](https://www1.g-reiki.net/meguro/reiki_menu.html)]
 - 原典（豊島区例規集）：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - 原典（台東区例規集）：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
+- 原典（墨田区例規集）：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
 
