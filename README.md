@@ -45,7 +45,7 @@ This structuring policy is designed with the intention of serving as a **prototy
 
 The dataset currently includes building‑related ordinances, enforcement regulations, and administrative guidelines from the following Tokyo wards:
 
-### **Minato Ward**(https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/01_minato-ku)
+### [**Minato Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/01_minato-ku)
 - 港区建築基準法施行細則
 - 港区景観条例
 - 港区景観条例施行規則
