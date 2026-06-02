@@ -64,7 +64,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 港区開発事業に係る定住促進指導要綱実施要領
 - 港区雨水流出抑制施設設置指導要綱
 
-### **Chiyoda Ward**
+### [**Chiyoda Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/02_Chiyoda-ku)
 - 千代田区建築基準法施行細則
 - 千代田区景観まちづくり条例
 - 千代田区景観まちづくり条例施行細則
@@ -89,7 +89,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 千代田区建築計画の早期周知に関する条例
 - 千代田区緑化推進要綱
 
-### **Chuo Ward**  
+### [**Chuo Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/03_Chuo-ku)  
 - 建築基準法施行細則
 - 中央区地区計画の区域内における建築物の制限に関する条例
 - 中央区地区計画の区域内における建築物の制限に関する条例施行規則
@@ -101,7 +101,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 建築物の耐震改修の促進に関する法律施行細則
 - 建築物のエネルギー消費性能の向上等に関する法律施行細則
 
-### **Shibuya Ward**  
+### [**Shibuya Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/04_Shibuya-ku)  
 - 建築基準法施行細則
 - 建築基準法第４２条第２項の規定に基づく道路の指定
 - 渋谷区景観条例
@@ -115,7 +115,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 渋谷区建築物再生可能エネルギー利用促進区域内における説明義務の対象となる建築物の用途及び規模を定める条例
 - 渋谷区建築物のエネルギー消費性能の向上等に関する法律施行細則
 
-### **Shinjuku Ward**  
+### [**Shinjuku Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/05_Shinjuku-ku)  
 - 新宿区建築基準法施行細則
 - 新宿区みどりの条例
 - 新宿区みどりの条例施行規則
@@ -128,7 +128,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 新宿区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 新宿区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
-### **Bunkyo Ward**  
+### [**Bunkyo Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/06_Bunkyo-ku)  
 - 文京区建築基準法施行細則
 - 文京区みどりの保護条例
 - 文京区みどりの保護条例施行規則
@@ -137,7 +137,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 文京区中高層建築物の建築に係る紛争の予防と調整及び開発事業の周知に関する条例
 - 文京区中高層建築物の建築に係る紛争の予防と調整及び開発事業の周知に関する条例施行規則
 
-### **Shinagawa Ward**  
+### [**Shinagawa Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/07_Shinagawa-ku)  
 - 品川区建築基準法施行規則
 - 品川区みどりの条例
 - 品川区みどりの条例施行規則
@@ -146,7 +146,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 品川区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 品川区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
-### **Meguro Ward**  
+### [**Meguro Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/08_Meguro-ku)  
 - 建築基準法施行細則
 - 目黒区みどりの条例
 - 目黒区みどりの条例施行規則
@@ -155,7 +155,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 目黒区中高層建築物等の建築に係る紛争の予防と調整に関する条例
 - 目黒区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規
 
-### **Toshima Ward**  
+### [**Toshima Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/09_Toshima-ku)  
 - 豊島区建築基準法施行細則
 - 豊島区みどりの条例
 - 豊島区みどりの条例施行規則
@@ -164,7 +164,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 豊島区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 豊島区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
-### **Taito Ward** 
+### [**Taito Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/10_Taito-ku) 
 - 東京都台東区建築基準法施行細則
 - 東京都台東区みどりの条例
 - 東京都台東区みどりの条例施行規則
@@ -173,7 +173,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
-### **Sumida Ward**  
+### [**Sumida Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/11_Sumida-ku)  
 - 墨田区集合住宅の建築に係る居住環境の整備及び管理に関する条例
 - 墨田区景観条例
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例
@@ -261,7 +261,7 @@ See commit logs for detailed update history.
 
 ## 収録自治体の条例・施行規則等
 
-### 港区(https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/01_minato-ku)
+### [港区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/01_minato-ku)
 - 港区建築基準法施行細則
 - 港区景観条例
 - 港区景観条例施行規則
@@ -280,7 +280,7 @@ See commit logs for detailed update history.
 - 港区開発事業に係る定住促進指導要綱実施要領
 - 港区雨水流出抑制施設設置指導要綱
 
-### 千代田区
+### [千代田区}(https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/02_Chiyoda-ku)
 - 千代田区建築基準法施行細則
 - 千代田区景観まちづくり条例
 - 千代田区景観まちづくり条例施行細則
@@ -305,7 +305,7 @@ See commit logs for detailed update history.
 - 千代田区建築計画の早期周知に関する条例
 - 千代田区緑化推進要綱
 
-### 中央区
+### [中央区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/03_Chuo-ku)
 - 建築基準法施行細則
 - 中央区地区計画の区域内における建築物の制限に関する条例
 - 中央区地区計画の区域内における建築物の制限に関する条例施行規則
@@ -317,7 +317,7 @@ See commit logs for detailed update history.
 - 建築物の耐震改修の促進に関する法律施行細則
 - 建築物のエネルギー消費性能の向上等に関する法律施行細則
 
-### 渋谷区
+### [渋谷区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/04_Shibuya-ku)
 - 建築基準法施行細則
 - 建築基準法第４２条第２項の規定に基づく道路の指定
 - 渋谷区景観条例
@@ -331,7 +331,7 @@ See commit logs for detailed update history.
 - 渋谷区建築物再生可能エネルギー利用促進区域内における説明義務の対象となる建築物の用途及び規模を定める条例
 - 渋谷区建築物のエネルギー消費性能の向上等に関する法律施行細則
 
-### 新宿区
+### 新宿区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/05_Shinjuku-ku)
 - 新宿区建築基準法施行細則
 - 新宿区みどりの条例
 - 新宿区みどりの条例施行規則
@@ -344,7 +344,7 @@ See commit logs for detailed update history.
 - 新宿区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 新宿区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
-### 文京区
+### [文京区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/06_Bunkyo-ku)
 - 文京区建築基準法施行細則
 - 文京区みどりの保護条例
 - 文京区みどりの保護条例施行規則
@@ -353,7 +353,7 @@ See commit logs for detailed update history.
 - 文京区中高層建築物の建築に係る紛争の予防と調整及び開発事業の周知に関する条例
 - 文京区中高層建築物の建築に係る紛争の予防と調整及び開発事業の周知に関する条例施行規則
 
-### 品川区
+### [品川区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/07_Shinagawa-ku)
 - 品川区建築基準法施行規則
 - 品川区みどりの条例
 - 品川区みどりの条例施行規則
@@ -362,7 +362,7 @@ See commit logs for detailed update history.
 - 品川区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 品川区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
-### 目黒区
+### [目黒区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/08_Meguro-ku)
 - 建築基準法施行細則
 - 目黒区みどりの条例
 - 目黒区みどりの条例施行規則
@@ -371,7 +371,7 @@ See commit logs for detailed update history.
 - 目黒区中高層建築物等の建築に係る紛争の予防と調整に関する条例
 - 目黒区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規
 
-### 豊島区
+### [豊島区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/09_Toshima-ku)
 - 豊島区建築基準法施行細則
 - 豊島区みどりの条例
 - 豊島区みどりの条例施行規則
@@ -380,7 +380,7 @@ See commit logs for detailed update history.
 - 豊島区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 豊島区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
-### 台東区
+### [台東区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/10_Taito-ku)
 - 東京都台東区建築基準法施行細則
 - 東京都台東区みどりの条例
 - 東京都台東区みどりの条例施行規則
@@ -389,7 +389,7 @@ See commit logs for detailed update history.
 - 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 東京都台東区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
-### 墨田区
+### [墨田区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/11_Sumida-ku)
 - 墨田区集合住宅の建築に係る居住環境の整備及び管理に関する条例
 - 墨田区景観条例
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例
