@@ -164,7 +164,8 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 豊島区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 豊島区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
-### **Taito Ward**  
+### **Taito Ward** 
+Link：10_Taito-ku
 - 東京都台東区建築基準法施行細則
 - 東京都台東区みどりの条例
 - 東京都台東区みどりの条例施行規則
