@@ -280,7 +280,7 @@ See commit logs for detailed update history.
 - 港区開発事業に係る定住促進指導要綱実施要領
 - 港区雨水流出抑制施設設置指導要綱
 
-### [千代田区}(https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/02_Chiyoda-ku)
+### [千代田区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/02_Chiyoda-ku)
 - 千代田区建築基準法施行細則
 - 千代田区景観まちづくり条例
 - 千代田区景観まちづくり条例施行細則
