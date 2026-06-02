@@ -331,7 +331,7 @@ See commit logs for detailed update history.
 - 渋谷区建築物再生可能エネルギー利用促進区域内における説明義務の対象となる建築物の用途及び規模を定める条例
 - 渋谷区建築物のエネルギー消費性能の向上等に関する法律施行細則
 
-### 新宿区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/05_Shinjuku-ku)
+### [新宿区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/05_Shinjuku-ku)
 - 新宿区建築基準法施行細則
 - 新宿区みどりの条例
 - 新宿区みどりの条例施行規則
