@@ -176,6 +176,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 ### [**Sumida Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/11_Sumida-ku)  
 - 墨田区集合住宅の建築に係る居住環境の整備及び管理に関する条例
 - 墨田区景観条例
+- 墨田区景観規則
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
@@ -392,6 +393,7 @@ See commit logs for detailed update history.
 ### [墨田区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/11_Sumida-ku)
 - 墨田区集合住宅の建築に係る居住環境の整備及び管理に関する条例
 - 墨田区景観条例
+- 墨田区景観規則
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
