@@ -182,6 +182,14 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
+###[**Koto Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/12_Koto-ku)
+- 江東区みどりの条例
+- 江東区みどりの条例施行規則
+- 江東区都市景観条例
+- 江東区都市景観条例施行規則
+- 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+  
 ---
 
 ## **License**
@@ -223,6 +231,7 @@ See commit logs for detailed update history.
 - Toshima Ward ordinance database：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - Taito Ward ordinance database：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
 - Sumida Ward ordinance database：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
+- Koto Ward ordinance database：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)
 
 ---
 
@@ -401,6 +410,15 @@ See commit logs for detailed update history.
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
+### [江東区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/12_Koto-ku)
+- 江東区みどりの条例
+- 江東区みどりの条例施行規則
+- 江東区都市景観条例
+- 江東区都市景観条例施行規則
+- 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
+  
 ## ライセンス
 
 - **原典**：各自治体例規集（著作権法第13条により著作権の対象外）
@@ -435,4 +453,6 @@ See commit logs for detailed update history.
 - 原典（豊島区例規集）：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - 原典（台東区例規集）：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
 - 原典（墨田区例規集）：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
+- 原典（江東区例規集）：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)
+
 
