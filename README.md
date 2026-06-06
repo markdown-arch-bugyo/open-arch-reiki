@@ -190,7 +190,14 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 江東区都市景観条例施行規則
 - 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
-  
+
+### [**Ota Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/13_Ota-ku)
+- 大田区みどりの条例
+- 大田区みどりの条例施行規則
+- 大田区景観条例
+- 大田区景観条例施行規則
+- 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 ---
 
 ## **License**
@@ -420,6 +427,14 @@ See commit logs for detailed update history.
 - 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
+### [太田区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/13_Ota-ku)
+- 大田区みどりの条例
+- 大田区みどりの条例施行規則
+- 大田区景観条例
+- 大田区景観条例施行規則
+- 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
   
 ## ライセンス
 
@@ -456,5 +471,6 @@ See commit logs for detailed update history.
 - 原典（台東区例規集）：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
 - 原典（墨田区例規集）：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
 - 原典（江東区例規集）：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
+- 原典（太田区例規集）：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
 
 
