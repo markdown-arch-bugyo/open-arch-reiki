@@ -231,7 +231,7 @@ See commit logs for detailed update history.
 - Toshima Ward ordinance database：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - Taito Ward ordinance database：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
 - Sumida Ward ordinance database：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
-- Koto Ward ordinance database：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)
+- Koto Ward ordinance database：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
 
 ---
 
@@ -453,6 +453,6 @@ See commit logs for detailed update history.
 - 原典（豊島区例規集）：[[URL](https://krl600.legal-square.com/HAS-Shohin/page/SJSrbLogin.jsf)]
 - 原典（台東区例規集）：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
 - 原典（墨田区例規集）：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
-- 原典（江東区例規集）：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)
+- 原典（江東区例規集）：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
 
 
