@@ -240,6 +240,7 @@ See commit logs for detailed update history.
 - Taito Ward ordinance database：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
 - Sumida Ward ordinance database：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
 - Koto Ward ordinance database：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
+- Ota Ward ordinance database：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
 
 ---
 
