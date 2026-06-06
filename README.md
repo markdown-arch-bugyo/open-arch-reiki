@@ -182,7 +182,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例
 - 墨田区中高層建築物の建築に係る紛争の予防及び調整に関する条例施行規則
 
-###[**Koto Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/12_Koto-ku)
+### [**Koto Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/12_Koto-ku)
 - 江東区みどりの条例
 - 江東区みどりの条例施行規則
 - 江東区都市景観条例
