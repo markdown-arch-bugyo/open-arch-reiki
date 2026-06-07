@@ -192,6 +192,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
 ### [**Ota Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/13_Ota-ku)
+- 大田区建築基準法施行規則
 - 大田区みどりの条例
 - 大田区みどりの条例施行規則
 - 大田区景観条例
@@ -429,6 +430,7 @@ See commit logs for detailed update history.
 - 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
 ### [太田区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/13_Ota-ku)
+- 大田区建築基準法施行規則
 - 大田区みどりの条例
 - 大田区みどりの条例施行規則
 - 大田区景観条例
