@@ -199,6 +199,13 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 大田区景観条例施行規則
 - 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [**Setagaya Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/14_Setagaya-ku)
+- 世田谷区みどりの基本条例
+- 世田谷区風景づくり条例
+- 世田谷区風景づくり条例施行規則
+- 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+- 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
 ---
 
 ## **License**
@@ -242,6 +249,7 @@ See commit logs for detailed update history.
 - Sumida Ward ordinance database：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
 - Koto Ward ordinance database：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
 - Ota Ward ordinance database：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
+- Setagaya Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)
 
 ---
 
@@ -429,7 +437,7 @@ See commit logs for detailed update history.
 - 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 江東区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
-### [太田区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/13_Ota-ku)
+### [大田区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/13_Ota-ku)
 - 大田区建築基準法施行規則
 - 大田区みどりの条例
 - 大田区みどりの条例施行規則
@@ -438,6 +446,12 @@ See commit logs for detailed update history.
 - 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
+### [世田谷区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/14_Setagaya-ku)
+- 世田谷区みどりの基本条例
+- 世田谷区風景づくり条例
+- 世田谷区風景づくり条例施行規則
+- 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+- 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
   
 ## ライセンス
 
@@ -474,6 +488,7 @@ See commit logs for detailed update history.
 - 原典（台東区例規集）：[[URL](https://www1.g-reiki.net/taito/reiki_menu.html)]
 - 原典（墨田区例規集）：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
 - 原典（江東区例規集）：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
-- 原典（太田区例規集）：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
+- 原典（大田区例規集）：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
+- 原典（世田谷区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)
 
 
