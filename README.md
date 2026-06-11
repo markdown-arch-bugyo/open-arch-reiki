@@ -201,6 +201,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
 ### [**Setagaya Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/14_Setagaya-ku)
+- 世田谷区建築基準法施行細則
 - 世田谷区みどりの基本条例
 - 世田谷区みどりの基本条例施行規則
 - 世田谷区風景づくり条例
@@ -448,6 +449,7 @@ See commit logs for detailed update history.
 - 大田区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
 ### [世田谷区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/14_Setagaya-ku)
+- 世田谷区建築基準法施行細則
 - 世田谷区みどりの基本条例
 - 世田谷区みどりの基本条例施行規則
 - 世田谷区風景づくり条例
