@@ -208,6 +208,14 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 世田谷区風景づくり条例施行規則
 - 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例
 - 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [**Suginami Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/15_Suginami-ku)
+- 杉並区みどりの条例
+- 杉並区みどりの条例施行規則
+- 杉並区景観条例
+- 杉並区景観条例施行規則
+- 杉並区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+- 杉並区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
 ---
 
 ## **License**
@@ -252,6 +260,7 @@ See commit logs for detailed update history.
 - Koto Ward ordinance database：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
 - Ota Ward ordinance database：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
 - Setagaya Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)
+- Suginami Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)
 
 ---
 
@@ -456,6 +465,15 @@ See commit logs for detailed update history.
 - 世田谷区風景づくり条例施行規則
 - 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例
 - 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [杉並区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/15_Suginami-ku)
+- 杉並区みどりの条例
+- 杉並区みどりの条例施行規則
+- 杉並区景観条例
+- 杉並区景観条例施行規則
+- 杉並区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+- 杉並区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
+
   
 ## ライセンス
 
@@ -494,5 +512,6 @@ See commit logs for detailed update history.
 - 原典（江東区例規集）：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
 - 原典（大田区例規集）：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
 - 原典（世田谷区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)
+- 原典（杉並区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)
 
 
