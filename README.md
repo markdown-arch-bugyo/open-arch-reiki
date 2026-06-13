@@ -217,6 +217,13 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 杉並区景観条例施行規則
 - 杉並区中高層建築物等の建築に係る紛争の予防と調整に関する条例
 - 杉並区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [**Nakano Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/16_Nakano-ku)
+- 中野区建築基準法施行細則
+- 中野区みどりの保護と育成に関する条例
+- 中野区みどりの保護と育成に関する条例施行規則
+- 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 ---
 
 ## **License**
@@ -262,6 +269,7 @@ See commit logs for detailed update history.
 - Ota Ward ordinance database：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
 - Setagaya Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)
 - Suginami Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)
+- Nakano Ward ordinance databese：[[URL](https://www.city.tokyo-nakano.lg.jp/reiki/reiki_taikei/taikei_default.html)
 
 ---
 
@@ -475,6 +483,13 @@ See commit logs for detailed update history.
 - 杉並区景観条例施行規則
 - 杉並区中高層建築物等の建築に係る紛争の予防と調整に関する条例
 - 杉並区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [中野区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/16_Nakano-ku)
+- 中野区建築基準法施行細則
+- 中野区みどりの保護と育成に関する条例
+- 中野区みどりの保護と育成に関する条例施行規則
+- 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
   
 ## ライセンス
