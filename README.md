@@ -528,7 +528,7 @@ See commit logs for detailed update history.
 - 原典（墨田区例規集）：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
 - 原典（江東区例規集）：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
 - 原典（大田区例規集）：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
-- 原典（世田谷区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)
-- 原典（杉並区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)
-
+- 原典（世田谷区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)]
+- 原典（杉並区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)]
+- 原典（中野区例規集）：[[URL](https://www.city.tokyo-nakano.lg.jp/reiki/reiki_taikei/taikei_default.html)]
 
