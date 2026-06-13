@@ -267,9 +267,9 @@ See commit logs for detailed update history.
 - Sumida Ward ordinance database：[[URL](https://www.city.sumida.lg.jp/wkg/reiki_int/reiki_menu.html)]
 - Koto Ward ordinance database：[[URL](https://www1.g-reiki.net/city.koto/reiki_menu.html)]
 - Ota Ward ordinance database：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
-- Setagaya Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)
-- Suginami Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)
-- Nakano Ward ordinance databese：[[URL](https://www.city.tokyo-nakano.lg.jp/reiki/reiki_taikei/taikei_default.html)
+- Setagaya Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)]
+- Suginami Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)]
+- Nakano Ward ordinance databese：[[URL](https://www.city.tokyo-nakano.lg.jp/reiki/reiki_taikei/taikei_default.html)]
 
 ---
 
