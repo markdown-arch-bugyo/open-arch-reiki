@@ -210,6 +210,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
 
 ### [**Suginami Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/15_Suginami-ku)
+- 杉並区建築基準法施行細則
 - 杉並区みどりの条例
 - 杉並区みどりの条例施行規則
 - 杉並区景観条例
@@ -467,6 +468,7 @@ See commit logs for detailed update history.
 - 世田谷区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
 
 ### [杉並区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/15_Suginami-ku)
+- 杉並区建築基準法施行細則
 - 杉並区みどりの条例
 - 杉並区みどりの条例施行規則
 - 杉並区景観条例
