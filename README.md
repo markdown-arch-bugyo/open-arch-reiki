@@ -224,6 +224,12 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 中野区みどりの保護と育成に関する条例施行規則
 - 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [**Nerima Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/17_Nerima-ku)
+- 練馬区みどりを愛し守りはぐくむ条例
+- 練馬区みどりを愛し守りはぐくむ条例施行規則
+- 練馬区景観条例
+- 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例
 ---
 
 ## **License**
@@ -269,7 +275,8 @@ See commit logs for detailed update history.
 - Ota Ward ordinance database：[[URL](https://www1.g-reiki.net/cityota.reiki/reiki_menu.html)]
 - Setagaya Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)]
 - Suginami Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)]
-- Nakano Ward ordinance databese：[[URL](https://www.city.tokyo-nakano.lg.jp/reiki/reiki_taikei/taikei_default.html)]
+- Nakano Ward ordinance database：[[URL](https://www.city.tokyo-nakano.lg.jp/reiki/reiki_taikei/taikei_default.html)]
+- Nerima Ward ordinance database：[[URL](https://www1.g-reiki.net/nerima/reiki_menu.html)]
 
 ---
 
@@ -491,6 +498,12 @@ See commit logs for detailed update history.
 - 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
+ ### [練馬区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/17_Nerima-ku)
+- 練馬区みどりを愛し守りはぐくむ条例
+- 練馬区みどりを愛し守りはぐくむ条例施行規則
+- 練馬区景観条例
+- 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+
   
 ## ライセンス
 
@@ -531,4 +544,5 @@ See commit logs for detailed update history.
 - 原典（世田谷区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)]
 - 原典（杉並区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)]
 - 原典（中野区例規集）：[[URL](https://www.city.tokyo-nakano.lg.jp/reiki/reiki_taikei/taikei_default.html)]
+- 原典（練馬区例規集）：[[URL](https://www1.g-reiki.net/nerima/reiki_menu.html)]
 
