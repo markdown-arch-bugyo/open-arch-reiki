@@ -230,6 +230,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 練馬区みどりを愛し守りはぐくむ条例施行規則
 - 練馬区景観条例
 - 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+- 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規
 ---
 
 ## **License**
@@ -503,6 +504,7 @@ See commit logs for detailed update history.
 - 練馬区みどりを愛し守りはぐくむ条例施行規則
 - 練馬区景観条例
 - 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例
+- 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規
 
   
 ## ライセンス
