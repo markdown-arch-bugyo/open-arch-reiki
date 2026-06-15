@@ -226,6 +226,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
 ### [**Nerima Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/17_Nerima-ku)
+- 練馬区建築基準法施行細則
 - 練馬区みどりを愛し守りはぐくむ条例
 - 練馬区みどりを愛し守りはぐくむ条例施行規則
 - 練馬区景観条例
@@ -501,6 +502,7 @@ See commit logs for detailed update history.
 - 中野区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 
  ### [練馬区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/17_Nerima-ku)
+--練馬区建築基準法施行細則
 - 練馬区みどりを愛し守りはぐくむ条例
 - 練馬区みどりを愛し守りはぐくむ条例施行規則
 - 練馬区景観条例
