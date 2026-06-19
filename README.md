@@ -232,7 +232,15 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 練馬区景観条例
 - 練馬区景観条例施行規則
 - 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例
-- 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規
+- 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [**Itabashi Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/18_Itabashi-ku)
+- 東京都板橋区緑化の推進に関する条例
+- 東京都板橋区緑化の推進に関する条例施行規則
+- 東京都板橋区景観条例
+- 東京都板橋区景観条例施行規則
+- 東京都板橋区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 東京都板橋区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 ---
 
 ## **License**
@@ -280,6 +288,7 @@ See commit logs for detailed update history.
 - Suginami Ward ordinance database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)]
 - Nakano Ward ordinance database：[[URL](https://www.city.tokyo-nakano.lg.jp/reiki/reiki_taikei/taikei_default.html)]
 - Nerima Ward ordinance database：[[URL](https://www1.g-reiki.net/nerima/reiki_menu.html)]
+- Itabashi Ward ordinace database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680CC)]
 
 ---
 
@@ -508,8 +517,15 @@ See commit logs for detailed update history.
 - 練馬区景観条例
 - 練馬区景観条例施行規則
 - 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例
-- 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規
+- 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
 
+### [板橋区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/18_Itabashi-ku)
+- 東京都板橋区緑化の推進に関する条例
+- 東京都板橋区緑化の推進に関する条例施行規則
+- 東京都板橋区景観条例
+- 東京都板橋区景観条例施行規則
+- 東京都板橋区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 東京都板橋区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
   
 ## ライセンス
 
@@ -550,5 +566,7 @@ See commit logs for detailed update history.
 - 原典（世田谷区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C5)]
 - 原典（杉並区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680C8)]
 - 原典（中野区例規集）：[[URL](https://www.city.tokyo-nakano.lg.jp/reiki/reiki_taikei/taikei_default.html)]
+- 原典（板橋区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680CC)]
+- 原典（練馬区例規集）：[[URL](https://www1.g-reiki.net/nerima/reiki_menu.html)]
 - 原典（練馬区例規集）：[[URL](https://www1.g-reiki.net/nerima/reiki_menu.html)]
 
