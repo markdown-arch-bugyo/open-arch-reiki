@@ -235,6 +235,7 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
 
 ### [**Itabashi Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/18_Itabashi-ku)
+- 東京都板橋区建築基準法施行細則
 - 東京都板橋区緑化の推進に関する条例
 - 東京都板橋区緑化の推進に関する条例施行規則
 - 東京都板橋区景観条例
@@ -520,6 +521,7 @@ See commit logs for detailed update history.
 - 練馬区中高層建築物等の建築に係る紛争の予防と調整に関する条例施行規則
 
 ### [板橋区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/18_Itabashi-ku)
+- 東京都板橋区建築基準法施行細則
 - 東京都板橋区緑化の推進に関する条例
 - 東京都板橋区緑化の推進に関する条例施行規則
 - 東京都板橋区景観条例
