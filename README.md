@@ -251,6 +251,15 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 東京都北区景観づくり条例施行規則
 - 東京都北区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 東京都北区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [**Arakawa Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/20_Arakawa-ku)
+- 荒川区建築基準法施行細則
+- 荒川区みどりの保護育成条例
+- 荒川区みどりの保護育成条例施行規則
+- 荒川区景観条例
+- 荒川区景観条例施行規則
+- 荒川区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 荒川区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 ---
 
 ## **License**
@@ -300,6 +309,7 @@ See commit logs for detailed update history.
 - Nerima Ward ordinance database：[[URL](https://www1.g-reiki.net/nerima/reiki_menu.html)]
 - Itabashi Ward ordinace database：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680CC)]
 - Kita Ward ordinace database：[[URL](https://ops-jg.d1-law.com/opensearch/SrMjF01/init?jctcd=8A801680CA)]
+- Arakawa Ward ordinace database：[[URL](https://www.city.arakawa.tokyo.jp/reiki_int/reiki_menu.html)]
 
 ---
 
@@ -547,6 +557,15 @@ See commit logs for detailed update history.
 - 東京都北区景観づくり条例施行規則
 - 東京都北区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 東京都北区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [荒川区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/20_Arakawa-ku)
+- 荒川区建築基準法施行細則
+- 荒川区みどりの保護育成条例
+- 荒川区みどりの保護育成条例施行規則
+- 荒川区景観条例
+- 荒川区景観条例施行規則
+- 荒川区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 荒川区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
   
 ## ライセンス
 
@@ -590,3 +609,4 @@ See commit logs for detailed update history.
 - 原典（練馬区例規集）：[[URL](https://www1.g-reiki.net/nerima/reiki_menu.html)]
 - 原典（板橋区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrFeF01/init?jctcd=8A801680CC)]
 - 原典（北区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrMjF01/init?jctcd=8A801680CA)]
+- 原典（荒川区例規集）：[[URL](https://www.city.arakawa.tokyo.jp/reiki_int/reiki_menu.html)]
