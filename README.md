@@ -251,7 +251,6 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 東京都北区景観づくり条例施行規則
 - 東京都北区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 東京都北区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
-
 ---
 
 ## **License**
