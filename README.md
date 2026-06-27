@@ -269,6 +269,15 @@ The dataset currently includes building‑related ordinances, enforcement regula
 - 足立区景観条例施行規則
 - 足立区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 足立区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [**Katsushika Ward**](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/22_Katsushika-ku)
+- 葛飾区建築基準法施行細則
+- 葛飾区緑の保護と育成に関する条例
+- 葛飾区緑の保護と育成に関する条例施行規則
+- 葛飾区景観地区条例
+- 葛飾区景観地区条例施行規則
+- 葛飾区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 葛飾区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
 ---
 
 ## **License**
@@ -320,6 +329,7 @@ See commit logs for detailed update history.
 - Kita Ward ordinace database：[[URL](https://ops-jg.d1-law.com/opensearch/SrMjF01/init?jctcd=8A801680CA)]
 - Arakawa Ward ordinace database：[[URL](https://www.city.arakawa.tokyo.jp/reiki_int/reiki_menu.html)]
 - Adachi Ward ordinace database：[[URL](https://ops-jg.d1-law.com/opensearch/SrMjF01/init?jctcd=8A8016811F)]
+- Katsushika ward ordinace database：[[URL](https://www.city.katsushika.lg.jp/keikaku/reiki_int/reiki_taikei/taikei_default.html)]
 
 ---
 
@@ -585,6 +595,15 @@ See commit logs for detailed update history.
 - 足立区景観条例施行規則
 - 足立区中高層建築物の建築に係る紛争の予防と調整に関する条例
 - 足立区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
+
+### [葛飾区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/22_Katsushika-ku)
+- 葛飾区建築基準法施行細則
+- 葛飾区緑の保護と育成に関する条例
+- 葛飾区緑の保護と育成に関する条例施行規則
+- 葛飾区景観地区条例
+- 葛飾区景観地区条例施行規則
+- 葛飾区中高層建築物の建築に係る紛争の予防と調整に関する条例
+- 葛飾区中高層建築物の建築に係る紛争の予防と調整に関する条例施行規則
   
 ## ライセンス
 
@@ -630,4 +649,4 @@ See commit logs for detailed update history.
 - 原典（北区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrMjF01/init?jctcd=8A801680CA)]
 - 原典（荒川区例規集）：[[URL](https://www.city.arakawa.tokyo.jp/reiki_int/reiki_menu.html)]
 - 原典（足立区例規集）：[[URL](https://ops-jg.d1-law.com/opensearch/SrMjF01/init?jctcd=8A8016811F)]
-  
+- 原典（葛飾区例規集）：[[URL](https://www.city.katsushika.lg.jp/keikaku/reiki_int/reiki_taikei/taikei_default.html)]
