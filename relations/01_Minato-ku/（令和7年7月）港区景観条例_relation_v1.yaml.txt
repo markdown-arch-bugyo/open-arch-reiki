@@ -1,0 +1,133 @@
+version: "1.4"
+title: "港区景観条例および同施行規則・統合リレーション定義"
+metadata:
+  municipality_code: "131032"
+  domain: "landscape"
+  generator: "markdown_arch_bugyo"
+  license: "CC BY 4.0"
+
+relations:
+  # ==========================================
+  # 1. 外部法令連携（法レイヤーとの関係）
+  # ==========================================
+  - id: "rel_ext_landscape_act_base"
+    type: "based_on"
+    from: "municipality:131032_minato-ku:landscape_ord:art1"
+    to: "national:landscape_act"
+    description: "本条例は景観法に基づく"
+
+  - id: "rel_ext_building_def"
+    type: "inherits_definition"
+    from: "municipality:131032_minato-ku:landscape_ord:art2_num1"
+    to: "national:building_standards_act:art2_num1"
+    description: "建築物の定義を建築基準法から引用"
+
+  - id: "rel_ext_waste_def"
+    type: "inherits_definition"
+    from: "municipality:131032_minato-ku:landscape_ord:art12_par2_num2"
+    to: "national:Act on Waste Management and Public Cleaning:art2_par1"
+    description: "廃棄物の定義を廃棄物の処理及び清掃に関する法律から引用"
+
+  - id: "rel_ext_resource_def"
+    type: "inherits_definition"
+    from: "municipality:131032_minato-ku:landscape_ord:art12_par2_num2"
+    to: "national:Act on the Promotion of Effective Utilization of Resources:art2_par4"
+    description: "再生資源の定義を資源の有効な利用の促進に関する法律から引用"
+  
+
+  # ==========================================
+  # 2. 外部条例連携（都道府県レイヤー等との関係）
+  # ==========================================
+  - id: "rel_tokyo_landscape_exemption"
+    type: "exclusive_override"
+    condition: "prefecture:13_tokyo-to:landscape_ord:art20"
+    target: "municipality:131032_minato-ku:landscape_ord:art14_par1_num2"
+    action: "EXEMPT"
+    legal_basis: "条例第14条第3項"
+    description: "東京都景観条例第20条の協議を要する場合、区の事前協議は適用しない"
+
+  - id: "rel_tokyo_outdoor_adv_trigger"
+    type: "parallel_compliance"
+    trigger: "prefecture:13_tokyo-to:outdoor_adv_ord"
+    require: "municipality:131032_minato-ku:landscape_ord:art14_par1_num2"
+    relation_style: "and_condition"
+    legal_basis: "条例第14条第1項第二号"
+    description: "東京都屋外広告物条例に基づく特定の許可を要する行為は、区の事前協議の対象となる"
+
+  - id: "rel_tokyo_machinami_guideline_exemption"
+    type: "exclusive_override"
+    condition: "prefecture:13_tokyo-to:tokyo_machinami_ord:art30_par2"
+    target: "municipality:131032_minato-ku:landscape_ord:art12_par1"
+    action: "EXEMPT"
+    legal_basis: "条例第12条第3項第四号、規則第5条第1項"
+    description: "東京のしゃれた街並みづくり推進条例に基づく通知行為は、法第16条の届出を免除する"
+
+
+  # ==========================================
+  # 3. 内部条例連携（区の他条例との関係）
+  # ==========================================
+  - id: "rel_minato_machizukuri_proposal_org"
+    type: "inherits_definition"
+    from: "municipality:131032_minato-ku:landscape_ord:art11"
+    to: "municipality:131032_minato-ku:machizukuri_ord:art13_par1"
+    legal_basis: "条例第11条"
+    description: "景観計画の提案団体を、港区まちづくり条例第13条第1項に規定する地区まちづくりルール認定組織として定義"
+
+
+  # ==========================================
+  # 4. 内部連携（条例 ➡ 施行規則への委任）
+  # ==========================================
+  - id: "rel_delegate_notification_procedure"
+    type: "delegates_to"
+    from: "municipality:131032_minato-ku:landscape_ord:art12_par1"
+    to: "municipality:131032_minato-ku:landscape_rules:art4_par2"
+    description: "届出対象行為の具体的な手続と届出日は、規則第4条第2項及び別表第一に委任"
+
+  - id: "rel_delegate_prior_consultation_procedure"
+    type: "delegates_to"
+    from: "municipality:131032_minato-ku:landscape_ord:art14_par1"
+    to: "municipality:131032_minato-ku:landscape_rules:art6_par2"
+    description: "事前協議の期限等は、規則第6条第2項に委任"
+
+  # ==========================================
+  # 5. 数値基準・しきい値へのリンク（別表の構造化）
+  # ==========================================
+  - id: "rel_threshold_building_scale"
+    type: "procedural_threshold"
+    target_process: "municipality:131032_minato-ku:landscape_ord:art12_par3_num5"
+    reference_data: "municipality:131032_minato-ku:landscape_rules:appended_table_2"
+    description: "建築物の新築等における届出免除の規模要件（高さ15m未満等）は別表第二を参照"
+
+  - id: "rel_threshold_structure_scale"
+    type: "procedural_threshold"
+    target_process: "municipality:131032_minato-ku:landscape_ord:art12_par3_num5"
+    reference_data: "municipality:131032_minato-ku:landscape_rules:appended_table_3"
+    description: "工作物の新設等における届出免除の規模要件は別表第三を参照"
+
+  # ==========================================
+  # 6. 手続きフローの順序性（プロセスチェーン）
+  # ==========================================
+  - id: "rel_flow_consult_to_notify"
+    type: "prerequisite_process"
+    from: "municipality:131032_minato-ku:landscape_ord:art14_par1_num1"
+    to: "municipality:131032_minato-ku:landscape_ord:art12_par1"
+    description: "届出（第12条）の前に、事前協議（第14条）を完了しなければならない"
+
+  - id: "rel_flow_notify_to_report"
+    type: "post_process"
+    from: "municipality:131032_minato-ku:landscape_ord:art12_par1"
+    to: "municipality:131032_minato-ku:landscape_rules:art9"
+    description: "届出に係る行為の完了時は、規則第9条に基づき完了・中止報告書を提出する"
+
+
+---
+
+## このファイルについて
+出典：港区区例規集
+取得日：2026-05-23
+変換：markdown_arch_bugyo
+ライセンス：CC BY 4.0
+原典URL：https://ops-jg.d1-law.com/opensearch/SrJbF01/init?jctcd=8A8016805F&houcd=H350901010032&no=1&totalCount=1&jbnJiten=5080509
+
+## 免責事項
+本データは原典に基づき作成していますが、正確性・最新性を保証するものではありません。法的判断は原典を参照してください。
