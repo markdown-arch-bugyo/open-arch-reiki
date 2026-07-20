@@ -1,10 +1,16 @@
 
 # open-arch-reiki
-# 🌐 **Open Architectural Ordinance Dataset (Markdown Structured Data)**  
+# 🌐 **Open Architectural Ordinance Dataset (Markdown Structured Data & Relation Graphs)**  
 *English version is shown first. 日本語版は下部にあります。*
 
 This project provides a structured Markdown dataset of building‑related municipal ordinances, enforcement regulations, and administrative guidelines.  
-The dataset is being developed progressively, starting with Tokyo wards that have high building activity.
+The dataset is set with Tokyo all 23 wards that have high building activity.
+
+🚀 **Graph-RAG & Knowledge Graph Support**
+Having expanded the dataset to support advanced legal reasoning and Graph-RAG workflows by introducing **Relation YAML data**. 
+- **First Release:** `relations/01_Minato-ku/（令和7年7月）港区景観条例_relation_v1.yaml` (Minato Ward Landscape Ordinance, capturing the latest July 2025 amendment).
+- **Practitioner-Focused Design:** To minimize LLM search noise and token usage, administrative enforcement/penalty clauses are omitted. The graph strictly isolates elements crucial during the initial design phase: procedural workflows, pre-consultation timelines, and scale thresholds.
+- **AI Reasoning:** Complex cross-ordinance delegations and exemption overrides (e.g., exclusion rules triggered by Tokyo Metropolitan regulations) are explicitly structured to enable reliable conditional branching for AI.
 
 ---
 
@@ -24,7 +30,7 @@ The dataset is formatted so that **designers, government officials, and AI tools
 
 ---
 
-## **Data Structure**
+## **Data Structure (Markdown)**
 
 Chapters, articles, paragraphs, and items of each ordinance are mapped to Markdown heading levels (H1–H6):
 
@@ -348,7 +354,14 @@ See commit logs for detailed update history.
 
 建築関連条例・基準・要綱等を構造化（Markdown形式）データに変換し、
 公開するオープンデータプロジェクトです。
-現状は23区内の建築需要の高い区から順次整備中です。
+現状23区の主要建築関連条例を整備しています。
+
+** Graph-RAG・ナレッジグラフ対応 **
+LLMによる高度な法的推論（Reasoning）やGraph-RAGの構築を可能にする**関係性定義データ（Relation YAML）**の提供を開始しました。
+
+- **第一弾の公開:** `relations/01_Minato-ku/（令和7年7月）港区景観条例_relation_v1.yaml`（最新の令和7年7月改正に対応した港区景観条例の構造化データ）。
+- **実務者特化のモデリング（ノイズとトークン量の削減）:** 建築設計の初期フェーズにおいてLLMの検索ノイズとなる行政処分や罰則等の条文を削ぎ落とし、「届出要件」「事前協議のタイムライン」「規模のしきい値」など、設計実務に直結する要素に絞ってグラフ構造化しています。
+- **AI推論の支援:** 他条例への委任関係や東京都条例等による適用免除（上書きルール）を明示的に構造化し、AIが誤認識のない確実な条件分岐を行えるデータを目指しています。
 
 ## 目的
 
@@ -362,7 +375,7 @@ See commit logs for detailed update history.
 - AI-Ready化（RAG等への活用）
 - 2029年BIMデータ審査への準備としてのデータ構造化
 
-## データ構造について
+## Markdown形式のデータ構造について
 
 条例の章・条・項・号をMarkdownの見出し階層（H1〜H6）に対応させています。
 - "#" 条例タイトル
@@ -377,7 +390,7 @@ See commit logs for detailed update history.
 この構造化の方針は、将来的な自治体データ標準のプロトタイプとなることを
 意識して設計しています。
 
-## 収録自治体の条例・施行規則等
+## Markdown形式の収録自治体の条例・施行規則等
 
 ### [港区](https://github.com/markdown-arch-bugyo/open-arch-reiki/tree/main/01_minato-ku)
 - 港区建築基準法施行細則
